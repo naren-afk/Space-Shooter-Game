@@ -24,6 +24,6 @@ A simple 2D space shooter game built using **Python** and **Pygame**, where you 
     ```bash
     git clone https://github.com/yourusername/space-raiders-shooter.git
     cd space-raiders-shooter
-3.**Run the Game:**
-  ```bash
+3. **Run the Game:**
+    ```bash
     python main.py
